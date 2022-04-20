@@ -1,0 +1,59 @@
+#titulo{
+    
+background-color: beige;
+}
+ 
+.texto_central{
+background-color: grey;
+text-align: center;
+padding: 5mm;
+margin: 0;
+}
+
+strong1{
+    color: red;
+    font-size: large;
+    font-style: italic;
+}
+p2{
+    font-size: large;
+    font-style: italic;
+    
+}
+
+h3{
+    text-align: center;
+}
+.container{
+   
+    align-items: center;
+    display: flex; 
+    justify-content: space-around;
+    overflow:hiddensss;
+    
+}
+
+.lado1{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    padding-top: 15mm;
+    font-style: italic;
+
+
+
+}
+.lado2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+    flex-direction: column;
+    padding-top: 15mm;
+   
+}
+
+
+
+
+
